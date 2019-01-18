@@ -1,0 +1,8 @@
+C:\Users\pyae_maung\Desktop\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.MatchingGame.resources
+C:\Users\pyae_maung\Desktop\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.csproj.GenerateResource.Cache
+C:\Users\pyae_maung\Desktop\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\pyae_maung\Desktop\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\pyae_maung\Desktop\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.exe
+C:\Users\pyae_maung\Desktop\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.pdb
+C:\Users\pyae_maung\Desktop\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\pyae_maung\Desktop\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.Properties.Resources.resources
